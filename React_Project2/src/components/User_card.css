@@ -1,0 +1,6 @@
+.user-container{
+    height: 100px;
+    width: 40px;
+    padding: 25px;
+    display: flex;
+}
